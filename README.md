@@ -1,16 +1,11 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+<img align="right"
+  src="./public/assets/employee_list.gif"  width="300px">
 
 # Employee List
 
 ## Description
 
 Project aims to create a Employee List App.
-
-## Problem Statement
-
-- We are adding a new project to our portfolios. So you and your colleagues have started to work on the project.
-
 
 ## Project Skeleton
 
@@ -27,8 +22,8 @@ SOLUTION
 │    ┣ 📂helper
 │    ┃    ┗ 📜data.js
 │    ┣ 📂scss
-│    ┃    ┣ 📜_mixins.scss
 │    ┃    ┣ 📜_reset.scss
+│    ┃    ┣ 📜_responsive.scss
 │    ┃    ┗ 📜_variables.scss
 │    ┣ 📜App.js
 │    ┣ 📜index.js
@@ -74,12 +69,4 @@ Build a Employee List App using ReactJS.
 
 - Step 6: Add project gif to your project and README.md file.
 
-## Notes
 
-- You can add additional functionalitiesto your app.
-
-## Demo
-
-  <a href="https://employee-list-app-omega.vercel.app/" target="_blank">React Employee List</a>
-
-**<p align="center">&#9786; Happy Coding &#9997;</p>**
